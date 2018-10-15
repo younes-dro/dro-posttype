@@ -2,7 +2,7 @@
 
 /*
  * Plugin Name: DRO Post Type
- * Plugin URI: http://www.dro.123.fr
+ * Plugin URI: https://github.com/younes-dro/dro-posttype
  * Author: Younes DRO
  * Author URI: http://www.dro.123.fr
  * Version: 1.0.0
