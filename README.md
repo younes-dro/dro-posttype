@@ -1,2 +1,2 @@
 # dro-posttype
-post types for pizzeria online
+plugin wordpress for creating a post type product
