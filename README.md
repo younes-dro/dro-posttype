@@ -1,2 +1,2 @@
-# dro-posttype
-plugin wordpress for creating a post type product
+## dro-posttype
+Plugin wordpress for creating a Custom Post Type product.
