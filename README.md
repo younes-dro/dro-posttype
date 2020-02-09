@@ -1,2 +1,2 @@
 ## dro-posttype
-Plugin wordpress for creating a Custom Post Type product.
+Plugin wordpress for creating a Custom Post Type product and custom taxonomies.
